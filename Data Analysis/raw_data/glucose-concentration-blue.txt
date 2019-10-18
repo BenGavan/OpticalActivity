@@ -1,0 +1,10 @@
+Concentration	Ben's Reading	Ben's Judgement Range 	Kiran's Reading	Kiran's Judgement Range 
+0.1	174	4	169	4
+0.15	167	4	165	4
+0.2	161	4	159	4
+0.25	154	5	153	4
+0.3	142	5	144	4
+0.35	138	4	143	5
+0.4	126.5	4	130	5
+0.45	122.5	4	123	5
+0.5	116.5	4	113	5
